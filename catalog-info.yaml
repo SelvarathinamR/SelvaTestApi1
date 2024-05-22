@@ -1,0 +1,25 @@
+apiVersion: backstage.io/v1alpha1
+kind: Product
+metadata:
+  name: "TestCommit"
+  annotations:
+    backstage.io/techdocs-ref: dir:.
+    confluence/page: "SonarQube"
+spec:
+  type: service
+  owner: user:guest
+  lifecycle: experimental
+  projectInfo:
+    projectName: 
+    moduleName: "Developer dashboard"
+    informationAuthor: user:guest
+    modality: "s"
+    bodyParts: "d"
+    processingPurpose: "f"
+    protocol: "g"
+    algorithmType: "h"
+    packageType: "j"
+    supportedOs: "k"
+    sourceCodeLanguage: 
+    developmentStatus: "a"
+    linkToProjectPage: "s"
