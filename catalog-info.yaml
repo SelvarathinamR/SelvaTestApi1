@@ -1,25 +1,53 @@
 apiVersion: backstage.io/v1alpha1
 kind: Product
 metadata:
-  name: "TestCommit"
+  name: NewConfluenceWIthUserMapping
   annotations:
-    backstage.io/techdocs-ref: dir:.
-    confluence/page: "SonarQube"
+    confluence/page: NewConfluence - WIth UserMapping
 spec:
   type: service
-  owner: user:guest
+  owner: admin
   lifecycle: experimental
   projectInfo:
-    projectName: 
-    moduleName: "Developer dashboard"
-    informationAuthor: user:guest
-    modality: "s"
-    bodyParts: "d"
-    processingPurpose: "f"
-    protocol: "g"
-    algorithmType: "h"
-    packageType: "j"
-    supportedOs: "k"
-    sourceCodeLanguage: 
-    developmentStatus: "a"
-    linkToProjectPage: "s"
+    projectName: NewConfluence - WIth UserMapping
+    moduleName: Selva
+    informationAuthor:
+      - admin
+    modality:
+      - CT
+    bodyParts: Cardiac
+    processingPurpose: segmentation
+    protocol: Contrast
+    algorithmType: Classical
+    packageType: Binary
+    supportedOs: Windows
+    sourceCodeLanguage: Python
+    developmentStatus:
+      - Development
+    linkToProject: Link
+  productization:
+    productizedApplication: Application
+    function: Function
+    productizedOwner: Owner
+    releaseNotes: Notes
+    knowIssues: Issues
+  evaluationInformation:
+    evaluationResults: Results
+    evaluationType: Evaluation
+    clinicalData: Clinical
+  algorithmInformation:
+    developmentPurpose: Processing
+    developmentStatus: productized
+    algorithmDevelopmentCompany: Quest
+    personinCharge: Selva
+    collaborativeResearchPartner: RTR
+    existenceofExternalIP: 'No'
+  technologyInformationforCMRE:
+    fundingProject: Father
+    group:
+      - Image Analysis
+    TRL:
+      - E-NICE1
+      - E-NICE2
+    projectStatus:
+      - active
