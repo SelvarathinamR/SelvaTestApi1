@@ -4,10 +4,6 @@ metadata:
   name: SelvaTestCatalog
   annotations:
     confluence/page: NewConfluence - WIth UserMapping
-    createdBy: 'Selva'
-    createdUsing: 'confluence'
-    updatedBy: 'Backstage'
-    lastUpdatedAt: 'timestamp1'
 spec:
   type: service
   owner: admin
@@ -56,3 +52,4 @@ spec:
       - E-NICE2
     projectStatus:
       - active
+  applicationInfo: {}
