@@ -5,10 +5,10 @@ metadata:
   annotations:
     confluence/page: NewConfluence - WIth UserMapping
     information:
-      createdBy: 'Selva'
-      createdUsing: 'confluence'
-      updatedBy: 'Backstage'
-      lastUpdatedAt: 'timestamp1'
+      - createdBy: 'Selva'
+      - createdUsing: 'confluence'
+      - updatedBy: 'Backstage'
+      - lastUpdatedAt: 'timestamp1'
 spec:
   type: service
   owner: admin
