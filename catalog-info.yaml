@@ -13,7 +13,7 @@ spec:
       - admin
     modality:
       - UL
-      - CT
+      - PET
     bodyParts: Cardiac
     processingPurpose: segmentation
     protocol: Contrast
