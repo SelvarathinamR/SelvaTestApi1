@@ -12,7 +12,6 @@ spec:
     informationAuthor:
       - admin
     modality:
-      - MR
       - UL
     bodyParts: Cardiac
     processingPurpose: segmentation
