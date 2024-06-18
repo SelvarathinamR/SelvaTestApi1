@@ -44,7 +44,7 @@ spec:
   technologyInformationforCMRE:
     fundingProject: Father
     group: IMAGE ANALYSIS
-    TRL: NICE
-    projectStatus: ACTIVE
+    TRL: TRL 5
+    projectStatus: LEGACY
   applicationInfo:
     linkAPI: test
