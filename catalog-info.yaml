@@ -43,11 +43,7 @@ spec:
     existenceofExternalIP: 'No'
   technologyInformationforCMRE:
     fundingProject: Father
-    group:
-      - Image Analysis
-    TRL:
-      - E-NICE1
-      - E-NICE2
-    projectStatus:
-      - active
+    group: IMAGE ANALYSIS
+    TRL: NICE
+    projectStatus: ACTIVE
   applicationInfo: {}
