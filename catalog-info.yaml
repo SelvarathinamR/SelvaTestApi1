@@ -7,15 +7,15 @@ spec:
   owner: admin
   lifecycle: experimental
   projectInfo:
-    projectName: NewConfluence - WIth UserMapping
-    moduleName: Selva
+    projectName: NewConfluence - WIth UserMapping Segmentation
+    moduleName: BackstageTestCatalogPageWithTable
     informationAuthor:
       - admin
     modality:
       - UL
     bodyParts: Cardiac
-    processingPurpose: segmentation
-    protocol: Contrast
+    processingPurpose: Segmentation CatalogPageSegmentation
+    protocol: New Contrast CT and contract CT
     algorithmType: Classical
     packageType: Binary
     supportedOs: Windows
@@ -24,7 +24,7 @@ spec:
       - Development
     linkToProject: Link
   productization:
-    productizedApplication: Application
+    productizedApplication: Application with CatalogPage
     function: Function
     productizedOwner: Owner
     releaseNotes: Notes
