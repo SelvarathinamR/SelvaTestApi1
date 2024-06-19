@@ -7,7 +7,7 @@ spec:
   owner: admin
   lifecycle: experimental
   projectInfo:
-    projectName: NewConfluence - WIth UserMapping Segmentation
+    projectName: NewConfluence - WIth UserMapping Segmentation CatalogPage
     moduleName: BackstageTestCatalogPageWithTable
     informationAuthor:
       - admin
