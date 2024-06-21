@@ -6,6 +6,8 @@ spec:
   type: service
   owner: admin
   lifecycle: experimental
+  catalogVersionInfo:
+    latest: 'true'
   projectInfo:
     projectName: NewConfluence - WIth UserMapping Segmentation CatalogPage
     moduleName: BackstageTestCatalogPageWithTable
