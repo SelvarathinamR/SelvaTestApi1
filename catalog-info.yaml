@@ -9,9 +9,7 @@ spec:
   catalogVersionInfo:
     latest: 'true'
   projectInfo:
-    projectName: >-
-      NewConfluence - WIth UserMapping Segmentation CatalogPage  test api and
-      data with the data 
+    projectName: 'NewConfluence - WIth UserMapping Segmentation CatalogPage '
     moduleName: BackstageTestCatalogPageWithTable
     informationAuthor:
       - admin
