@@ -14,7 +14,8 @@ spec:
     informationAuthor:
       - admin
     modality:
-      - UL
+      - MR
+      - CT
     bodyParts: Cardiac
     processingPurpose: Segmentation CatalogPageSegmentation
     protocol: New Contrast CT and contract CT
