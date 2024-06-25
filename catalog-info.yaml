@@ -8,6 +8,7 @@ spec:
   lifecycle: experimental
   catalogVersionInfo:
     latest: 'true'
+    entityName: 'SelvaTestCatalog'
   projectInfo:
     projectName: 'NewConfluence - WIth UserMapping Segmentation CatalogPage'
     moduleName: BackstageTestCatalogPageWithTable
