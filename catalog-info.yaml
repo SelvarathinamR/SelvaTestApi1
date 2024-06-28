@@ -8,16 +8,16 @@ spec:
   lifecycle: experimental
   catalogVersionInfo:
     latest: 'true'
-    entityName: 'SelvaTestCatalog'
+    entityName: SelvaTestCatalog
   projectInfo:
-    projectName: 'NewConfluence - WIth UserMapping Segmentation CatalogPage'
+    projectName: NewConfluence - WIth UserMapping Segmentation CatalogPage
     moduleName: BackstageTestCatalogPageWithTable
     informationAuthor:
       - admin
     modality:
       - MR
-      - CT
-    bodyParts: Cardiac
+      - PET
+    bodyParts: Brain
     processingPurpose: Segmentation CatalogPageSegmentation
     protocol: New Contrast CT and contract CT
     algorithmType: Classical
