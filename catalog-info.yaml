@@ -51,3 +51,4 @@ spec:
     projectStatus: LEGACY
   applicationInfo:
     linkAPI: test
+    inputImages: ''
