@@ -26,7 +26,7 @@ spec:
     sourceCodeLanguage: Python
     developmentStatus:
       - Development
-    linkToProject: Link
+    linkToProject: '[ [H:T(Code)H:L(https://github.com/trrakesh/backstage_new)] ]'
   productization:
     productizedApplication: Application with CatalogPage
     function: Function
