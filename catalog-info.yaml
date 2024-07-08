@@ -10,45 +10,54 @@ spec:
     latest: 'true'
     entityName: SelvaTestCatalog
   projectInfo:
-    projectName: NewConfluence - WIth UserMapping Segmentation CatalogPage
-    moduleName: BackstageTestCatalogPageWithTable
-    informationAuthor:
-      - admin
+    projectName: Apache
+    moduleName: wed
+    informationAuthor: Quest @admin
     modality:
       - MR
+      - UL
       - PET
-    bodyParts: Brain
-    processingPurpose: Segmentation CatalogPageSegmentation
-    protocol: New Contrast CT and contract CT
-    algorithmType: Classical
-    packageType: Binary
+      - CT
+    bodyParts: Cardiac
+    processingPurpose: Segmentation
+    protocol: Contrast CT
+    algorithmType: Deep Learning
+    packageType: VAF
     supportedOs: Windows
-    sourceCodeLanguage: Python
+    sourceCodeLanguage: cpp
     developmentStatus:
-      - Development
-    linkToProject: '[ [H:T(Code)H:L(https://github.com/trrakesh/backstage_new)] ]'
-  productization:
-    productizedApplication: Application with CatalogPage
-    function: Function
-    productizedOwner: Owner
-    releaseNotes: Notes
-    knowIssues: Issues
-  evaluationInformation:
-    evaluationResults: Results
-    evaluationType: Evaluation
-    clinicalData: Clinical
-  algorithmInformation:
-    developmentPurpose: Processing
-    developmentStatus: Clinical Validation
-    algorithmDevelopmentCompany: Quest
-    personinCharge: Selva
-    collaborativeResearchPartner: RTR
-    existenceofExternalIP: 'No'
-  technologyInformationforCMRE:
-    fundingProject: Father
-    group: IMAGE ANALYSIS
-    TRL: TRL 5
-    projectStatus: LEGACY
+      - PROTOTYPE / CLINICAL EVALUATION
+    linkToProject: ''
   applicationInfo:
-    linkAPI: test
-    inputImages: ''
+    linkAPI: ''
+    inputImages: Input target
+    inputValues: input values
+    outputImages: output images
+    outputValues: output values
+    limitations: Limitation
+    algorithmDevelopmentCompany: quest Global
+  productization:
+    productizedApplication: VSTP
+    function: Nothing
+    productizedOwner: Rakesh
+    releaseNotes: Nil
+    knowIssues: Na
+  evaluationInformation:
+    evaluationResults: Failed
+    evaluationType: internal
+    clinicalData: GDPR
+  algorithmInformation:
+    developmentPurpose: Regulatory approval
+    developmentStatus: Clinical Validation
+    algorithmDevelopmentCompany: Quest Global
+    personinCharge: RRTR @admin
+    collaborativeResearchPartner: CMSC
+    existenceofExternalIP: 197.154.255.255
+  technologyInformationforCMRE:
+    fundingProject: EAD
+    group:
+      - IMAGE ANALYSIS
+    TRL:
+      - TRL 5
+    projectStatus:
+      - ACTIVE
