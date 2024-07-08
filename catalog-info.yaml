@@ -10,54 +10,57 @@ spec:
     latest: 'true'
     entityName: SelvaTestCatalog
   projectInfo:
-    projectName: Apache
-    moduleName: wed
-    informationAuthor: Quest @admin
+    projectName: ConcordWeb
+    moduleName: WebUpdate
+    informationAuthor: ''
     modality:
-      - MR
       - UL
-      - PET
-      - CT
-    bodyParts: Cardiac
-    processingPurpose: Segmentation
-    protocol: Contrast CT
-    algorithmType: Deep Learning
-    packageType: VAF
-    supportedOs: Windows
-    sourceCodeLanguage: cpp
-    developmentStatus:
-      - PROTOTYPE / CLINICAL EVALUATION
-    linkToProject: ''
+    bodyParts: ''
+    processingPurpose: ''
+    protocol: ''
+    algorithmType: ''
+    packageType: ''
+    supportedOs: ''
+    sourceCodeLanguage: ''
+    developmentStatus: ''
+    linkToProject: >-
+      [ [H:T(Total Segmentator VAF - Image Analysis Community - Confluence
+      (vitalimages.com))H:L(https://github.com/trrakesh/backstage_new)] ]
   applicationInfo:
-    linkAPI: ''
-    inputImages: Input target
-    inputValues: input values
-    outputImages: output images
-    outputValues: output values
-    limitations: Limitation
-    algorithmDevelopmentCompany: quest Global
+    linkAPI: >-
+      [ [H:T(Total Segmentator - Software Requirements Specification - Image
+      Analysis Community - Confluence
+      (vitalimages.com))H:L(https://github.com/trrakesh/backstage_new)] ]
+    inputImages: ''
+    inputValues: ''
+    outputImages: ''
+    outputValues: ''
+    limitations: ''
+    algorithmDevelopmentCompany: ''
   productization:
-    productizedApplication: VSTP
-    function: Nothing
-    productizedOwner: Rakesh
-    releaseNotes: Nil
-    knowIssues: Na
+    productizedApplication: ''
+    function: ''
+    productizedOwner: ''
+    releaseNotes: >-
+      [ [H:T(Release
+      documentation)H:L(https://github.com/trrakesh/backstage_new)] ]
+    knowIssues: ''
   evaluationInformation:
-    evaluationResults: Failed
-    evaluationType: internal
-    clinicalData: GDPR
+    evaluationResults: ''
+    evaluationType: ''
+    clinicalData: ''
   algorithmInformation:
-    developmentPurpose: Regulatory approval
-    developmentStatus: Clinical Validation
-    algorithmDevelopmentCompany: Quest Global
-    personinCharge: RRTR @admin
-    collaborativeResearchPartner: CMSC
-    existenceofExternalIP: 197.154.255.255
+    developmentPurpose: >-
+      [ [H:T(GitHub - wasserth/TotalSegmentator: Tool for robust segmentation of
+      >100 important anatomical structures in CT and MR
+      images)H:L(https://github.com/trrakesh/backstage_new)] ]
+    developmentStatus: ''
+    algorithmDevelopmentCompany: ''
+    personinCharge: ''
+    collaborativeResearchPartner: ''
+    existenceofExternalIP: ''
   technologyInformationforCMRE:
-    fundingProject: EAD
-    group:
-      - IMAGE ANALYSIS
-    TRL:
-      - TRL 5
-    projectStatus:
-      - ACTIVE
+    fundingProject: ''
+    group: ''
+    TRL: ''
+    projectStatus: ''
