@@ -8,7 +8,7 @@ spec:
   lifecycle: experimental
   catalogVersionInfo:
     latest: 'true'
-    entityName: SelvaTestCatalog
+    entityName: SelvaTestCat
   projectInfo:
     projectName: ConcordWeb
     moduleName: WebUpdate
